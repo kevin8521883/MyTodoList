@@ -1,24 +1,13 @@
-# todolist
+# MyToList [DEMO](https://kevin8521883.github.io/MyTodoList/)
 
-## Project setup
-```
-npm install
-```
+### 可用來紀錄待辦事項的小作品
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 功能
+新增及刪除待辦事項
+##
+### 主要使用技術
+* Bootstrap 4 及 SCSS 的應用
+* Vue.js
+* Vue Cli 4
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
