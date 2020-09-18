@@ -1,0 +1,33 @@
+.todo-item {
+	background-color: $todo-background;
+	border-radius:.3rem;
+	.todo-header {
+		display: flex;
+	}
+	.todo-check {
+		$checkout-size: 24px;
+		display: flex;
+		align-items: center;
+	}
+	.todo-title {
+		font-family: Roboto-Medium;
+		font-size: 1.5rem;
+	}
+	.todo-control {
+		display: flex;
+		align-items: center;
+	}
+}
+.background-stared {
+	background-color: $lighten-warning;
+}
+.stared-color {
+	color :#F5A623;
+}
+.text-complete {
+	text-decoration :line-through;
+	color: #9B9B9B;
+}
+.text-gray {
+	color: $text-gray
+}

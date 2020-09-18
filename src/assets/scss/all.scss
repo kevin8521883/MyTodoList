@@ -1,0 +1,11 @@
+@import '~bootstrap/scss/functions';
+@import './helpers/variables';
+@import '~bootstrap/scss/bootstrap';
+
+@import './todo-nav';
+@import './todo-item';
+@import './todo-edit';
+
+body {
+  background-color: #E1E1E1;
+}
