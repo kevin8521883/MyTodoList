@@ -7,7 +7,7 @@
 ##
 ### 主要使用技術
 * Bootstrap 4 及 SCSS 的應用
-* javaScript
+* JavaScript
 * Vue.js
 * Vue Cli 4
 
